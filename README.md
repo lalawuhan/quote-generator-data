@@ -24,7 +24,7 @@ git clone "url you just copied"
     ```
     git checkout -b "yourname"
     ```
-3. Add the quotes from women in tech into the quotes.json file. 
+3. Add the quotes from women in tech into the **quotes.json** file. 
    * Please follow the quotes.json file format, add your quotes to the end.
    * Each individual quote should be in one json block. 
   
@@ -46,6 +46,9 @@ git clone "url you just copied"
    git commit -m "Added new quote - <your name>
    ```
    replace `<your name>` with your name. 
+
+**Please do not change/delete the README file**
+
 ### Push Changes to Github
    Push your changes to your branch 
    ``` 
