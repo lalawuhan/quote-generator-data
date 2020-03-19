@@ -83,5 +83,10 @@
         "author": "Dr. Shirley Ann Jackson",
         "quote": "“Treasure your curiosity and nurture your imagination. Have confidence in yourself. Do not let others put limits on you. Dare to imagine the unimaginable.”",
         "position": "American Physicist and Technologist"
+    },
+    {
+        "author": "Marina Costa",
+        "quote": "“You don't have to be exceptionally smart to be a programmer, but exceptionally insistent. Just keep going.”",
+        "position": "Frontend Developer Intern (with Achitecture background)"
     }
 ]
