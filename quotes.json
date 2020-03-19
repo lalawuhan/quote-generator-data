@@ -83,5 +83,30 @@
         "author": "Dr. Shirley Ann Jackson",
         "quote": "“Treasure your curiosity and nurture your imagination. Have confidence in yourself. Do not let others put limits on you. Dare to imagine the unimaginable.”",
         "position": "American Physicist and Technologist"
+    },
+    {
+        "author": "Marina Costa",
+        "quote": "“You don't have to be exceptionally smart to be a programmer, but exceptionally insistent. Just keep going.”",
+        "position": "Frontend Developer Intern (with Achitecture background)"
+    },
+    {
+        "author": "Kathryn Minshew",
+        "quote": "“An ugly baby is better than no baby at all. If you wait and wait and wait for your product to be perfect before you release it out into the world, you will often never get there. I am a big supporter of the minimum viable product and taking something that is the simplest explanation of your idea and putting it into the marketplace so you can start to get feedback.”",
+        "position": "Co-Founder and CEO of The Muse"
+    },
+    {
+        "author": "Olivia Pavco-Giaccia",
+        "quote": "“Don’t be afraid to ask for what you want. It is easy to allow insecurities about age/experience level to prevent you from making a big demand, or asking for a meeting with an influential person, or even admitting that you need help. However, if you don’t at least pose the question, it will probably never happen. So go for it! You might be surprised at what can happen if you just ask.”",
+        "position": "Founder of LabCandy"
+    },
+    {
+        "author": "Amy Wibowo",
+        "quote": "“Lots of women are shy and hesitant to promote their own projects and worry that it’s braggy. So I’m here to say that I love hearing about women doing awesome things that they really care about. I want to support and back cool projects. So you are not being braggy, you are doing people a favor by letting them know what awesome things you’ve done! Don’t be shy about sharing your projects!”",
+        "position": "Founder of BubbleSort Zines"
+    },
+    {
+        "author": "Sarah Friar",
+        "quote": "“A diversity of thought, perspective and culture is important in any field, not just engineering. Surround yourself with people who support you and get involved in [coding] programs.”",
+        "position": "Chief Financial Officer at Square"
     }
 ]
